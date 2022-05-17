@@ -1,0 +1,12 @@
+SEQUENCIA
+lista amazenam multiplos objetosem uma unica variavel 
+objeto tem uma indice,que indica sua posição dento da lista 
+o indice o refere-se ao primeiro elemento de sua lista 
+
+#A função len() informa a qunatidade do objetos em uma linha 
+#A função list()altera o tipo de um obejetivo par list e tambem para cria uma lista 
+sintoxe para acessar um objeto é:variavel[indice]
+o primeiro objeto da lista em sempre valor de indice o.
+#print(minhalista[:4] # inprime [´taiba´. ´igrupe´.´pocen´.cunbuco ´](4-1)
+#print(minhalista[2:1) # imprime [´pacem
+A ESTRUTURA "IN" É UTILIZADO PARA CHERCAR SE UMA DETERMINADO OBJETO
